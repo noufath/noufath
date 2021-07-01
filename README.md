@@ -1,10 +1,12 @@
 ## Hey 👋, Nice to see you
-<a href='https://www.linkedin.com/in/dany-christianto-06b7151b9/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a> <br>
+<a href='https://www.linkedin.com/in/dany-christianto-06b7151b9/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/noufath/noufath/main/assets/linkedin.svg" height='18px'/></a> <br>
 
-<img align="right" alt="GIF" src="/home/dany/code/wsl/noufath/assets/programmer.svg" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/noufath/noufath/main/assets/programmer.svg" width="360px"/>
 I'm Dany Christianto, a freelance Software Engineer, System Analyst and Full Stack Web Developer. I love exploring new tech stacks and interested in Data Science, Machine Learning and Artificial Intelligence. 
 <br/>
 <br/>
+
+
   
 ### 🧐 More About Me:
 - 🌱 &nbsp; I’m currently learning Data Science; 

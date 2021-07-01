@@ -1,7 +1,8 @@
 ## Hey 👋, Nice to see you
 <a href='https://www.linkedin.com/in/dany-christianto-06b7151b9/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/noufath/noufath/main/assets/linkedin.svg" height='18px'/></a> <br>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/noufath/noufath/main/assets/programmer.svg" width="360px"/>
+<a href="https://storyset.com/technology">
+<img align="right" alt="Technology illustrations by Storyset" src="https://raw.githubusercontent.com/noufath/noufath/main/assets/programmer.svg" width="360px"/></a>
 I'm Dany Christianto, a freelance Software Engineer, System Analyst and Full Stack Web Developer. I love exploring new tech stacks and interested in Data Science, Machine Learning and Artificial Intelligence. 
 <br/>
 <br/>
@@ -10,7 +11,6 @@ I'm Dany Christianto, a freelance Software Engineer, System Analyst and Full Sta
   
 ### 🧐 More About Me:
 - 🌱 &nbsp; I’m currently learning Data Science; 
-- 🎨 &nbsp; Using [Technology illustrations by Storyset](https://storyset.com/technology) 👉
 - 💼 &nbsp; Ask me about tech related or any freelance work, reach me at [GMail](mailto:danychristianto@gmail.com)
 - 📝 &nbsp; Checkout my [resume]()
 

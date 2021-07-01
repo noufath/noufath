@@ -10,7 +10,7 @@ I'm Dany Christianto, a freelance Software Engineer, System Analyst and Full Sta
   
 ### 🧐 More About Me:
 - 🌱 &nbsp; I’m currently learning Data Science; 
-- 🎨 &nbsp; Using [Technology illustrations by Storyset](href=https://storyset.com/technology) 👉
+- 🎨 &nbsp; Using [Technology illustrations by Storyset](https://storyset.com/technology) 👉
 - 💼 &nbsp; Ask me about tech related or any freelance work, reach me at [GMail](mailto:danychristianto@gmail.com)
 - 📝 &nbsp; Checkout my [resume]()
 

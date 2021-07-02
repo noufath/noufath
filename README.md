@@ -30,6 +30,6 @@ I'm Dany Christianto, a freelance Software Engineer, System Analyst and Full Sta
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
- - $emojiKey(🔥 )[MS Access to PostgreSQL using Python](https://danynotes.github.io/database/2021/04/16/convert-msaccess-to-postgresql.html)
- - $emojiKey(🔥 )[Membuat website atau blog statis menggunakan jekyll dan GitHub Pages](https://danynotes.github.io/website-statis/2021/04/07/create-static-web-using-jekyll.html)<!-- BLOG-POST-LIST:END -->
+ - 🔥 [MS Access to PostgreSQL using Python](https://danynotes.github.io/database/2021/04/16/convert-msaccess-to-postgresql.html)
+ - 🔥 [Membuat website atau blog statis menggunakan jekyll dan GitHub Pages](https://danynotes.github.io/website-statis/2021/04/07/create-static-web-using-jekyll.html)<!-- BLOG-POST-LIST:END -->
 

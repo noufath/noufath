@@ -1,5 +1,5 @@
 ## Hey 👋, Nice to see you
-<a href='https://www.linkedin.com/in/dany-christianto-06b7151b9/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/noufath/noufath/main/assets/linkedin.svg" height='18px'/></a> <br>
+<a href='https://www.linkedin.com/in/danychristianto/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/noufath/noufath/main/assets/linkedin.svg" height='18px'/></a> <br>
 
 <a href="https://storyset.com/technology">
 <img align="right" alt="Technology illustrations by Storyset" src="https://raw.githubusercontent.com/noufath/noufath/main/assets/programmer.svg" width="360px"/></a>

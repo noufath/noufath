@@ -13,4 +13,4 @@ jobs:
         with:
           feed_list: "https://danynotes.github.io/feed.xml"
           max_post_count: 5
-          template:  "$newline[$title](https://danynotes.github.io$url)"
+          template:  "[$title](https://danynotes.github.io$url)$newline"

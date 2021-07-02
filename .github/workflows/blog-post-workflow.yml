@@ -12,3 +12,5 @@ jobs:
       - uses: noufath/blog-post-workflow@master
         with:
           feed_list: "https://danynotes.github.io/feed.xml"
+          max_post_count: 5
+          template: [$title]($url)

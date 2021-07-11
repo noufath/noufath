@@ -30,7 +30,8 @@ I'm Dany Christianto, a freelance Software Engineer, System Analyst and Full Sta
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
- - 🔥[Data Engineer Challenge with SQL](https://danynotes.github.io/data%20engineer/2021/07/07/data-engineer-challenge-with-sql.html)
+ - 🔥[Data Analyst for Retail Sales Performance Report](https://danynotes.github.io/data%20analyst/2021/07/10/data-analyst-for-retail-sales-performance-report.html)
+ - 🔥[Data Engineer Challenge with SQL](https://danynotes.github.io/data%20analyst/2021/07/07/data-engineer-challenge-with-sql.html)
  - 🔥[MS Access to PostgreSQL using Python](https://danynotes.github.io/database/2021/04/16/convert-msaccess-to-postgresql.html)
  - 🔥[Membuat website atau blog statis menggunakan jekyll dan GitHub Pages](https://danynotes.github.io/website-statis/2021/04/07/create-static-web-using-jekyll.html)<!-- BLOG-POST-LIST:END -->
 

@@ -31,8 +31,8 @@ I'm Dany Christianto, a freelance Software Engineer, System Analyst and Full Sta
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
  - 🔥[Data Science Customer Segmentation with python Part 1](https://danynotes.github.io/data%20science/2021/07/19/customer-segmentation-with-python.html)
- - 🔥[Data Science Challenge with python](https://danynotes.github.io/data%20science/2021/07/16/data-science-challenge-with-python.html)
- - 🔥[Data Analyst for Retail Sales Performance Report](https://danynotes.github.io/data%20analyst/2021/07/10/data-analyst-for-retail-sales-performance-report.html)
- - 🔥[Data Engineer Challenge with SQL](https://danynotes.github.io/data%20analyst/2021/07/07/data-engineer-challenge-with-sql.html)
- - 🔥[MS Access to PostgreSQL using Python](https://danynotes.github.io/database/2021/04/16/convert-msaccess-to-postgresql.html)<!-- BLOG-POST-LIST:END -->
+ - 🔥[Data Science Customer Segmentation with python Part-5](https://danynotes.github.io/data%20science/2021/07/19/customer-segmentation-with-python-part5.html)
+ - 🔥[Data Science Customer Segmentation with python Part-4](https://danynotes.github.io/data%20science/2021/07/19/customer-segmentation-with-python-part4.html)
+ - 🔥[Data Science Customer Segmentation with python Part 3](https://danynotes.github.io/data%20science/2021/07/19/customer-segmentation-with-python-part3.html)
+ - 🔥[Data Science Customer Segmentation with python Part 2](https://danynotes.github.io/data%20science/2021/07/19/customer-segmentation-with-python-part2.html)<!-- BLOG-POST-LIST:END -->
 

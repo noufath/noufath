@@ -30,9 +30,9 @@ I'm Dany Christianto, a freelance Software Engineer, System Analyst and Full Sta
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+ - 🔥[Scraping shopee product category with python](https://danynotes.github.io/scraping/2021/08/17/scraping-shopee-category-product.html)
  - 🔥[Data Science Customer Segmentation with python Part 1](https://danynotes.github.io/data%20science/2021/07/19/customer-segmentation-with-python.html)
  - 🔥[Data Science Customer Segmentation with python Part-5](https://danynotes.github.io/data%20science/2021/07/19/customer-segmentation-with-python-part5.html)
  - 🔥[Data Science Customer Segmentation with python Part-4](https://danynotes.github.io/data%20science/2021/07/19/customer-segmentation-with-python-part4.html)
- - 🔥[Data Science Customer Segmentation with python Part 3](https://danynotes.github.io/data%20science/2021/07/19/customer-segmentation-with-python-part3.html)
- - 🔥[Data Science Customer Segmentation with python Part 2](https://danynotes.github.io/data%20science/2021/07/19/customer-segmentation-with-python-part2.html)<!-- BLOG-POST-LIST:END -->
+ - 🔥[Data Science Customer Segmentation with python Part 3](https://danynotes.github.io/data%20science/2021/07/19/customer-segmentation-with-python-part3.html)<!-- BLOG-POST-LIST:END -->
 

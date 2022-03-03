@@ -30,9 +30,9 @@ I'm Dany Christianto, a freelance Software Engineer, System Analysts. I love exp
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+ - 🔥[Menangani nilai yang hilang](https://danynotes.github.io/data%20science/2022/03/02/dealing-missing-values.html)
  - 🔥[Handling Underfitting and Overfitting](https://danynotes.github.io/data%20science/2022/02/02/handling-underfitting-and-overfitting.html)
  - 🔥[Scraping produk shopee per kategori](https://danynotes.github.io/scraping/2021/09/12/scraping-shopee-product-by-category.html)
  - 🔥[Scraping shopee product category with python](https://danynotes.github.io/scraping/2021/08/17/scraping-shopee-category-product.html)
- - 🔥[Data Science Customer Segmentation with python Part 1](https://danynotes.github.io/data%20science/2021/07/19/customer-segmentation-with-python.html)
- - 🔥[Data Science Customer Segmentation with python Part-5](https://danynotes.github.io/data%20science/2021/07/19/customer-segmentation-with-python-part5.html)<!-- BLOG-POST-LIST:END -->
+ - 🔥[Data Science Customer Segmentation with python Part 1](https://danynotes.github.io/data%20science/2021/07/19/customer-segmentation-with-python.html)<!-- BLOG-POST-LIST:END -->
 

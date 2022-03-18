@@ -30,9 +30,9 @@ I'm Dany Christianto, a freelance Software Engineer, System Analysts. I love exp
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
- - 🔥[Menangani nilai yang hilang](https://danynotes.github.io/data%20science/2022/03/02/dealing-missing-values.html)
- - 🔥[Handling Underfitting and Overfitting](https://danynotes.github.io/data%20science/2022/02/02/handling-underfitting-and-overfitting.html)
- - 🔥[Scraping produk shopee per kategori](https://danynotes.github.io/scraping/2021/09/12/scraping-shopee-product-by-category.html)
- - 🔥[Scraping shopee product category with python](https://danynotes.github.io/scraping/2021/08/17/scraping-shopee-category-product.html)
- - 🔥[Data Science Customer Segmentation with python Part 1](https://danynotes.github.io/data%20science/2021/07/19/customer-segmentation-with-python.html)<!-- BLOG-POST-LIST:END -->
+ - 🔥
+ - 🔥[Mengelola Django Media dan File Statis di Heroku dengan Cloudinary](https://danynotes.github.io/web%20development/2022/03/05/mengelola-django-media-and-filestatis-di-heroku-menggunakan-cloudinary.html)
+ - 🔥[Membuat Blog menggunakan django dan ReactJS](https://danynotes.github.io/web%20development/2022/03/04/membuat-blog-menggunakan-django-dan-reactjs.html)
+ - 🔥[Membuat Blog menggunakan django dan ReactJS (Lanjutan)](https://danynotes.github.io/web%20development/2022/03/04/membuat-blog-menggunakan-django-dan-reactjs(Lanjutan).html)
+ - 🔥[Menangani nilai yang hilang](https://danynotes.github.io/data%20science/2022/03/02/dealing-missing-values.html)<!-- BLOG-POST-LIST:END -->
 

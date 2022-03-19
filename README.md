@@ -30,9 +30,9 @@ I'm Dany Christianto, a freelance Software Engineer, System Analysts. I love exp
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
- - 🔥
  - 🔥[Mengelola Django Media dan File Statis di Heroku dengan Cloudinary](https://danynotes.github.io/web%20development/2022/03/05/mengelola-django-media-and-filestatis-di-heroku-menggunakan-cloudinary.html)
  - 🔥[Membuat Blog menggunakan django dan ReactJS](https://danynotes.github.io/web%20development/2022/03/04/membuat-blog-menggunakan-django-dan-reactjs.html)
  - 🔥[Membuat Blog menggunakan django dan ReactJS (Lanjutan)](https://danynotes.github.io/web%20development/2022/03/04/membuat-blog-menggunakan-django-dan-reactjs(Lanjutan).html)
- - 🔥[Menangani nilai yang hilang](https://danynotes.github.io/data%20science/2022/03/02/dealing-missing-values.html)<!-- BLOG-POST-LIST:END -->
+ - 🔥[Menangani nilai yang hilang](https://danynotes.github.io/data%20science/2022/03/02/dealing-missing-values.html)
+ - 🔥[Handling Underfitting and Overfitting](https://danynotes.github.io/data%20science/2022/02/02/handling-underfitting-and-overfitting.html)<!-- BLOG-POST-LIST:END -->
 

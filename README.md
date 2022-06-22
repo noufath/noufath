@@ -3,7 +3,7 @@
 
 <a href="https://storyset.com/technology">
 <img align="right" alt="Technology illustrations by Storyset" src="https://raw.githubusercontent.com/noufath/noufath/main/assets/programmer.svg" width="360px"/></a>
-I'm Dany Christianto, a freelance Software Engineer. I love exploring new tech stacks and interested in Data Science, Machine Learning and Artificial Intelligence. 
+I'm Dany Christianto, Software Engineer. I love exploring new tech stacks and interested in Data Science, Machine Learning and Artificial Intelligence. 
 <br/>
 <br/>
 

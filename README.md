@@ -18,7 +18,7 @@ I'm Dany Christianto, a Software Engineer. I love exploring new tech stacks and 
 <br>
 
 ### Languages and Tools:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noufath)](https://github.com/noufath/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=noufath)](https://github.com/noufath/github-readme-stats)
 
 <br>
 

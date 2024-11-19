@@ -31,9 +31,9 @@ I'm Dany Christianto, a Software Engineer. I love exploring new tech stacks and 
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
- - 🔥[Membuat Template Python Logging](https://danynotes.github.io/python/2022/05/09/membuat-template-python-logging.html)
  - 🔥[Mengelola Django Media dan File Statis di Heroku dengan Cloudinary](https://danynotes.github.io/web%20development/2022/03/05/mengelola-django-media-and-filestatis-di-heroku-menggunakan-cloudinary.html)
  - 🔥[Membuat Blog menggunakan django dan ReactJS](https://danynotes.github.io/web%20development/2022/03/04/membuat-blog-menggunakan-django-dan-reactjs.html)
  - 🔥[Membuat Blog menggunakan django dan ReactJS (Lanjutan)](https://danynotes.github.io/web%20development/2022/03/04/membuat-blog-menggunakan-django-dan-reactjs(Lanjutan).html)
- - 🔥[Menangani nilai yang hilang](https://danynotes.github.io/data%20science/2022/03/02/dealing-missing-values.html)<!-- BLOG-POST-LIST:END -->
+ - 🔥[Menangani nilai yang hilang](https://danynotes.github.io/data%20science/2022/03/02/dealing-missing-values.html)
+ - 🔥[Handling Underfitting and Overfitting](https://danynotes.github.io/data%20science/2022/02/02/handling-underfitting-and-overfitting.html)<!-- BLOG-POST-LIST:END -->
 
